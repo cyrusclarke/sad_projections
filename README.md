@@ -1,5 +1,7 @@
 # sad_projections
 
+video mapping machine learning visuals to physical objects for installation:
+
 installation instructions:
 
 - clone folder and copy to processing directory
